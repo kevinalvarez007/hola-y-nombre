@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="$]==zS+t+L?Lb3~O1FZH" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="5?LfPONp/yxyg/t?,K6i"><value name="text"><shadow type="text" id="t63wQzMrFz[dl}?r/n84"><field name="TEXT">hola-Kevin Álvarez</field></shadow></value></block></statement></block></xml>
